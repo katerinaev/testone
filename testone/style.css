@@ -1,0 +1,9 @@
+.box{
+    display:flex;
+}
+
+.cell2{
+   
+    flex-basis: 100%;
+     width: 300px;
+}
